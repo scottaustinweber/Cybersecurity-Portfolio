@@ -1,4 +1,4 @@
-# Botium Toys — NIST CSF 2.0 Gap Assessment
+# Botium Toys — NIST CSF 2.0 GRC Gap Assessment
 
 A redo of the Google Cybersecurity Certificate's Botium Toys security audit exercise, using the official NIST CSF 2.0 Organizational Profile Template to conduct a real gap assessment rather than just the original training checklist.
 
