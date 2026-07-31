@@ -4,6 +4,8 @@ Hands-on lab work completed through the Google Cybersecurity Professional Certif
 
 ## Contents
 
+**NIST CSF 2.0 Gap Assessment (Botium Toys)** Conducted a full gap assessment against the official NIST CSF 2.0 Organizational Profile Template, redoing the Google Cybersecurity Certificate's Botium Toys security audit exercise. Identified 12 distinct findings, assigned current/target maturity tiers with supporting rationale, and produced a prioritized recommendations memo and governance policy drafts adapted from SANS Institute templates.
+
 **File Permissions & Access Control (Linux)**
 Applied Linux command-line tools to audit and modify file and directory permissions for a simulated organization, enforcing least privilege access principles.
 
