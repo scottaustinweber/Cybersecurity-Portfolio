@@ -1,6 +1,7 @@
 # Botium Toys — NIST CSF 2.0 GRC Gap Assessment
+## At a Glance
 
-A redo of the Google Cybersecurity Certificate's Botium Toys security audit exercise, using the official NIST CSF 2.0 Organizational Profile Template to conduct a real gap assessment rather than just the original training checklist.
+This is a NIST CSF 2.0 gap assessment of a fictional toy company, covering 12 findings across access control, data protection, and monitoring. The highest-priority gaps: no encryption on cardholder data, no backups or disaster recovery plan, and broad unrestricted access to sensitive data. Recommendations, governance policy drafts, and the full assessment are linked below.
 
 - [`scenario.md`](scenario.md) — background on Botium Toys and the original assessment findings
 
