@@ -2,6 +2,8 @@
 
 A redo of the Google Cybersecurity Certificate's Botium Toys security audit exercise, using the official NIST CSF 2.0 Organizational Profile Template to conduct a real gap assessment rather than just the original training checklist.
 
+- [`scenario.md`](scenario.md) — background on Botium Toys and the original assessment findings
+
 ## Contents
 - `NIST_CSF_Gap_Assessment.xlsx` / `.pdf` — the completed gap assessment (12 findings, current and target state, tier justification)
 - `recommendations-memo.docx` — prioritized findings and recommendations
