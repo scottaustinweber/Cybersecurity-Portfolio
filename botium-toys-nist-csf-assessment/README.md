@@ -9,4 +9,8 @@ A redo of the Google Cybersecurity Certificate's Botium Toys security audit exer
 
 Policies are adapted from SANS Institute's free Information Security Policy Templates (sans.org/information-security-policy), tailored to this assessment's specific findings.
 
-*Compliance mapping (PCI DSS/GDPR/SOC 2) and additional policy drafts are in progress and will be added as follow-on updates.*
+## Scope and Exclusions
+
+The other frameworks (GDPR and SOC 2) were left out because they were out of the scope of this project, which focused on the NIST guidelines to strengthen the security posture for this company. The changes made from NIST also generally satisfied the requirements from the other frameworks, but didn't seem relevant to this focused summary and policies guided by NIST.
+
+GDPR applies to Botium Toys but the 72-hour EU breach notification plan was already in place in the source report, so no NIST-driven recommendation was needed for it. The unencrypted cardholder data finding directly ties to PCI DSS, so that framework is cited specifically within the assessment. 
