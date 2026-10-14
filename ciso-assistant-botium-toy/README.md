@@ -19,6 +19,6 @@ Each scenario includes a risk origin and threat classification, a current likeli
 ## Exports
 
 - `Audit-Posture-Report.pdf` - full compliance assessment results, scores, and observations
-- `Executive-Summary.docx` - cover page, spider chart, and framework tree summary
+- `Executive-Summary.pdf` - cover page, spider chart, and framework tree summary
 - `Risk-Report.pdf` - risk scenarios with current and residual risk matrices
 - `Controls-Workbook.xlsx` - applied controls tied to both the audit and risk register
